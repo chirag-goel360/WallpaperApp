@@ -1,6 +1,7 @@
 import 'package:wallpaper/models/category_class.dart';
 
-String key = "563492ad6f91700001000001740932031c9c45f1a6d50bcae52a1245";
+// Get your API key from "https://www.pexels.com/api/"
+String key = "API KEY";
 
 List<CategoryClass> getCategory() {
   List<CategoryClass> categories = [];
